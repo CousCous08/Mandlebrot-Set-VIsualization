@@ -1,7 +1,4 @@
-/* 
-Marcus Lee, 2/23/2022, Mandlebrot Set
-
-*/
+//imports
 import javax.swing.*;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
@@ -10,7 +7,6 @@ import java.awt.event.ActionEvent;
 
 import java.awt.*;
 import java.awt.event.ActionListener;
-import java.util.EventListener;
 import java.awt.Color;
 import java.lang.Math;
 
@@ -91,8 +87,8 @@ class Complex
 {
     // member variables
     private float real;
-    private float imaginary;  //10/10
-    public Complex(float real, float imaginary)  //10/10
+    private float imaginary; 
+    public Complex(float real, float imaginary) 
     {
         this.real = real;
         this.imaginary = imaginary;
