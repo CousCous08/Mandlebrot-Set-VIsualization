@@ -1,2 +1,3 @@
-# Mandlebrot-Set-VIsualization
-A visualization of the Mandlebrot Set
+# Mandlebrot-Set-Visualization
+## A visualization of the Mandlebrot Set
+
