@@ -1,0 +1,2 @@
+# ignore .class files because we just want the source code
+*.class
